@@ -1,0 +1,497 @@
+{
+    "content_types": [
+      "content",
+      "cta",
+      "hook"
+    ],
+    "products": {
+      "hook": [
+        {
+          "name": "all",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "magnesium",
+          "prevent_duplicates": true,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "supplement",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "tiktok shop",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        }
+      ],
+      "content": [
+        {
+          "name": "all",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "energy blend",
+          "prevent_duplicates": true,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "focus blend",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "magnesium",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "melatonin",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "vitamin c",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "vitamin d",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "zinc",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        }
+      ],
+      "cta": [
+        {
+          "name": "all",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "buy now",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "learn more",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "magnesium",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "shop now",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "swipe",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        },
+        {
+          "name": "tap now",
+          "prevent_duplicates": false,
+          "min_occurrences": 1,
+          "current_count": 0
+        }
+      ]
+    },
+    "structure": {
+      "content": {
+        "path": "/Users/juri/Downloads/slidecontent/content",
+        "images": [
+          "15.png",
+          "IMG_1965.PNG",
+          "IMG_1966.PNG"
+        ]
+      },
+      "cta": {
+        "path": "/Users/juri/Downloads/slidecontent/cta",
+        "images": [
+          "1cta.PNG",
+          "2cta.PNG",
+          "3cta.png"
+        ]
+      },
+      "hook": {
+        "path": "/Users/juri/Downloads/slidecontent/hook",
+        "images": [
+          "1h.PNG",
+          "2h.PNG",
+          "3h.png",
+          "4h.png"
+        ]
+      }
+    },
+    "images": {
+      "15.png": {
+        "content_type": "content",
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "1cta.PNG": {
+        "content_type": "cta",
+        "dimensions": {
+          "width": 1170,
+          "height": 2037
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "1h.PNG": {
+        "content_type": "hook",
+        "dimensions": {
+          "width": 1170,
+          "height": 2027
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "2cta.PNG": {
+        "content_type": "cta",
+        "dimensions": {
+          "width": 1170,
+          "height": 2006
+        },
+        "product": null,
+        "settings_source": "custom",
+        "settings": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.8,
+                  0.9
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        }
+      },
+      "2h.PNG": {
+        "content_type": "hook",
+        "dimensions": {
+          "width": 1170,
+          "height": 2021
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "3cta.png": {
+        "content_type": "cta",
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "3h.png": {
+        "content_type": "hook",
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "4h.png": {
+        "content_type": "hook",
+        "dimensions": {
+          "width": 1080,
+          "height": 1920
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "IMG_1965.PNG": {
+        "content_type": "content",
+        "dimensions": {
+          "width": 1170,
+          "height": 1990
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      },
+      "IMG_1966.PNG": {
+        "content_type": "content",
+        "dimensions": {
+          "width": 1170,
+          "height": 1993
+        },
+        "product": null,
+        "settings_source": "default",
+        "settings": null
+      }
+    },
+    "untagged": [],
+    "settings": {
+      "content": {
+        "content": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.7,
+                  0.8
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        },
+        "[energy blend, focus blend, magnesium, melatonin, vitamin c, vitamin d, zinc]": null,
+        "[all]": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.7,
+                  0.8
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        }
+      },
+      "cta": {
+        "content": null,
+        "[all, buy now, learn more, magnesium, shop now, swipe, tap now]": null
+      },
+      "hook": {
+        "content": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.7,
+                  0.8
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        },
+        "[all, supplement, tiktok shop]": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.7,
+                  0.8
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        },
+        "[magnesium]": {
+          "base_settings": {
+            "default_text_type": "plain"
+          },
+          "text_settings": {
+            "plain": {
+              "font_size": 70,
+              "font": "assets.fonts.tiktokfont.ttf",
+              "product_duplicate_prevention": false,
+              "style_type": "outline_width",
+              "style_value": 2,
+              "colors": [
+                {
+                  "text": "#FFFFFF",
+                  "outline": "#000000"
+                }
+              ],
+              "position": {
+                "vertical": [
+                  0.8,
+                  0.9
+                ],
+                "horizontal": [
+                  0.45,
+                  0.55
+                ],
+                "vertical_jitter": 0.01,
+                "horizontal_jitter": 0.02
+              },
+              "margins": {
+                "top": 0.05,
+                "bottom": 0.05,
+                "left": 0.05,
+                "right": 0.05
+              }
+            }
+          }
+        }
+      }
+    }
+  }

@@ -1,0 +1,29 @@
+{
+    "base_settings": {
+      "default_text_type": "highlight"
+    },
+    "text_settings": {
+      "highlight": {
+        "font_size": 70,
+        "font": "assets.fonts.tiktokfont.ttf",
+        "product_duplicate_prevention": false,
+        "style_type": "corner_radius",
+        "style_value": 20,
+        "colors": [
+          {"text": "#000000", "background": "#FFFFFF"}
+        ],
+        "position": {
+          "vertical": [0.6, 0.8],
+          "horizontal": [0.45, 0.55],
+          "vertical_jitter": 0.01,
+          "horizontal_jitter": 0.02
+        },
+        "margins": {
+          "top": 0.05,
+          "bottom": 0.05,
+          "left": 0.05,
+          "right": 0.05
+        }
+      }
+    }
+  }
